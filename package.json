@@ -1,0 +1,19 @@
+{
+  "name": "@npm_benjaminhayek/sorting-algorithms",
+  "version": "1.0.0",
+  "description": "sorting algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminhayek/sorting-algorithms.git"
+  },
+  "author": "benjamin hayek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminhayek/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/benjaminhayek/sorting-algorithms#readme"
+}
